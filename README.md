@@ -1,7 +1,7 @@
 # About this Repository
 
 This is a repository where I put **my coding stuff**.  
-It's pretty simple—unless you're like me and don't have a brain.
+It's pretty simple, unless you're like me and don't have a brain.
 
 ## My Other Accounts
 
