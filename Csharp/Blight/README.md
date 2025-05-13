@@ -1,1 +1,1 @@
-![image](MeIsNegative/Csharp/Blight/Logo/v1/v1b.png)
+![image](/Logo/v1/v1b.png)
