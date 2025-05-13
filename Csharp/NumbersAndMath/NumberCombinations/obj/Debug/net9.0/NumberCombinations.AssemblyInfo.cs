@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberCombinations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c4d02f1ff9ec52928b4fbe717a5327a83ac4ae6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c94cfd35fce51c239949d88b8bfa4bb32820c34")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberCombinations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberCombinations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
