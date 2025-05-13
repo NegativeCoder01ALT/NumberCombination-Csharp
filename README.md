@@ -7,7 +7,7 @@ It's pretty simple, unless you're like me and don't have a brain.
 
 These are my other accounts where I’ll *hopefully* post regularly and keep things updated:
 
-[**Tumblr**](https://www.tumblr.com/blog/meisnegative) | [**GitHub**](https://github.com/NegativeCoder01/MeIsNegative)
+[**Tumblr**](https://www.tumblr.com/blog/meisnegative) | [**GitHub**](https://github.com/NegativeCoder01)
 
 ## About Me
 
