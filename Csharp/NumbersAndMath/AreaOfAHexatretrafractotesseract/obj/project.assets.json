@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/AreaOfAHexatretrafractotesseract/AreaOfAHexatretrafractotesseract.csproj",
+      "projectUniqueName": "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/AreaOfAHexatretrafractotesseract/AreaOfAHexatretrafractotesseract.csproj",
       "projectName": "AreaOfAHexatretrafractotesseract",
-      "projectPath": "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/AreaOfAHexatretrafractotesseract/AreaOfAHexatretrafractotesseract.csproj",
+      "projectPath": "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/AreaOfAHexatretrafractotesseract/AreaOfAHexatretrafractotesseract.csproj",
       "packagesPath": "/home/jechtm/.nuget/packages/",
-      "outputPath": "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/AreaOfAHexatretrafractotesseract/obj/",
+      "outputPath": "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/AreaOfAHexatretrafractotesseract/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jechtm/.nuget/NuGet/NuGet.Config"

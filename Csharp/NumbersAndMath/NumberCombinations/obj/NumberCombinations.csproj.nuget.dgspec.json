@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/NumberCombinations/NumberCombinations.csproj": {}
+    "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/NumberCombinations/NumberCombinations.csproj": {}
   },
   "projects": {
-    "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/NumberCombinations/NumberCombinations.csproj": {
+    "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/NumberCombinations/NumberCombinations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/NumberCombinations/NumberCombinations.csproj",
+        "projectUniqueName": "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/NumberCombinations/NumberCombinations.csproj",
         "projectName": "NumberCombinations",
-        "projectPath": "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/NumberCombinations/NumberCombinations.csproj",
+        "projectPath": "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/NumberCombinations/NumberCombinations.csproj",
         "packagesPath": "/home/jechtm/.nuget/packages/",
-        "outputPath": "/home/jechtm/MeIsNegative/MeIsNegative/NumbersAndMath/NumberCombinations/obj/",
+        "outputPath": "/home/jechtm/MeIsNegative/MeIsNegative/Csharp/NumbersAndMath/NumberCombinations/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jechtm/.nuget/NuGet/NuGet.Config"
