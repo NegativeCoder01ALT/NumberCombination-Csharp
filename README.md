@@ -14,6 +14,8 @@ These are my other accounts where I’ll *hopefully* post regularly and keep thi
 I'm a junior developer who codes in C#, and maybe more languages in the future. But for now, it's mostly C#.  
 I like helping people, so if you need help with anything, just ask. You can ask me on Tumblr.
 
+I learn code by learning a bit from a tutorial and making different projects with new things.
+
 Sometimes I work on projects with my friend Bobby ([BobbyRoya](https://github.com/Bobbyroya)).  
 I like coding, math, *The Owl House*, Pepsi, bread, and tech.  
 I’m prone to abandoning projects like a raccoon abandoning a half-eaten sandwich.  

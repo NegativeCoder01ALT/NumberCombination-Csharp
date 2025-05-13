@@ -1,0 +1,15 @@
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/bin/Debug/net9.0/Login
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/bin/Debug/net9.0/Login.deps.json
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/bin/Debug/net9.0/Login.runtimeconfig.json
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/bin/Debug/net9.0/Login.dll
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/bin/Debug/net9.0/Login.pdb
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.GeneratedMSBuildEditorConfig.editorconfig
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.AssemblyInfoInputs.cache
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.AssemblyInfo.cs
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.csproj.CoreCompileInputs.cache
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.sourcelink.json
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.dll
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/refint/Login.dll
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.pdb
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/Login.genruntimeconfig.cache
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net9.0/ref/Login.dll

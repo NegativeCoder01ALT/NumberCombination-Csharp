@@ -1,0 +1,5 @@
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net8.0/Login.GeneratedMSBuildEditorConfig.editorconfig
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net8.0/Login.AssemblyInfoInputs.cache
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net8.0/Login.AssemblyInfo.cs
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net8.0/Login.csproj.CoreCompileInputs.cache
+/home/jechtm/MeIsNegative/MeIsNegative/Csharp/Computer/Login/obj/Debug/net8.0/Login.sourcelink.json
