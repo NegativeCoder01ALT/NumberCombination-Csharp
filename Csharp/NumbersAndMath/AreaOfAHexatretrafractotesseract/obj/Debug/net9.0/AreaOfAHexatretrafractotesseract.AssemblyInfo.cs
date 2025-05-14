@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreaOfAHexatretrafractotesseract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ff23c4a5116970ec33b0ca3a5a54430acadadb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f805e650779f7bcb3254227381b23de99f6a9853")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreaOfAHexatretrafractotesseract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreaOfAHexatretrafractotesseract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

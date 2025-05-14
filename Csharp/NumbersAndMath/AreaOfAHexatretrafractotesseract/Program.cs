@@ -18,5 +18,4 @@ namespace hexateArea
             Console.WriteLine($"The total area of the Hexate is: {totalArea} cm⁴");
         }
     }
-
 }
