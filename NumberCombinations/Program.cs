@@ -1,27 +1,51 @@
 ﻿using System;
 
-namespace numbers
+while (true)
 {
-    public class Program
+    Console.Write(">>> ");
+    string input = Console.ReadLine();
+
+    switch (input)
     {
-        public static void Main()
-        {
-            while (true)
+        case "app --install git.numbercombo.bap":
+            // [INSERT INSTALL CODE FROM EARLIER HERE]
+            break;
+
+        case "exit":
+            Console.WriteLine("Exiting and launching FakeSmallOS...");
+
+            ProcessStartInfo startInfo = new ProcessStartInfo
             {
-                Console.Write("Enter the number of digits in the combination (1 to 18): ");
-                if (!int.TryParse(Console.ReadLine(), out int digits) || digits < 1 || digits > 18)
-                {
-                    Console.WriteLine("Invalid input. Please enter a number between 1 and 18.");
-                    return;
-                }
+                FileName = "dotnet",
+                Arguments = "run",
+                WorkingDirectory = "/workspaces/MeIsNegative/Csharp/Computer/FakeSmallOS",
+                UseShellExecute = false,
+                RedirectStandardOutput = true,
+                RedirectStandardError = true,
+                CreateNoWindow = true
+            };
 
-                long max = (long)Math.Pow(10, digits);
+            try
+            {
+                using Process proc = Process.Start(startInfo);
+                proc.WaitForExit();
 
-                for (long i = 0; i < max; i++)
-                {
-                    Console.WriteLine(i.ToString().PadLeft(digits, '0'));
-                }
+                string output = proc.StandardOutput.ReadToEnd();
+                string error = proc.StandardError.ReadToEnd();
+
+                Console.WriteLine("Output:\n" + output);
+                if (!string.IsNullOrEmpty(error))
+                    Console.WriteLine("Errors:\n" + error);
             }
-        }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Failed to launch FakeSmallOS: " + ex.Message);
+            }
+
+            return; // Exit the current program after running the other one
+
+        default:
+            Console.WriteLine("Unknown command. Try again or type 'exit' to launch FakeSmallOS.");
+            break;
     }
 }
