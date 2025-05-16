@@ -55,9 +55,13 @@ namespace breadOS
                                 Console.WriteLine(" ");
                                 Console.WriteLine("User commands: ");
                                 Console.WriteLine("user --del user[]: Deletes user");
-                                Console.WriteLine("user --change password[] : changes password");
-                                Console.WriteLine("user --change username[] : Changes username");
+                                Console.WriteLine("user --change password : changes password");
+                                Console.WriteLine("user --change username : Changes username");
                                 Console.WriteLine("user --logout : logs out the user");
+                                Console.WriteLine("");
+                                Console.WriteLine("System commands: ");
+                                Console.WriteLine("sys --reboot : Reboots the OS");
+                                Console.WriteLine("sys --reboot.wipe : Reboots and wipes everything");
                                 break;
                             case "user --del user[]":
                                 Console.Write("Enter your username: ");
@@ -86,7 +90,7 @@ namespace breadOS
                                     Console.WriteLine("INCORRECT USERNAME OR PASSWORD!");
                                 }
                                 break;
-                            case "user --change password[]":
+                            case "user --change password":
                                 Console.Write("Enter your username: ");
                                 string usernameChangePassInput = Console.ReadLine();
                                 Console.WriteLine("Enter your password: ");
@@ -104,7 +108,7 @@ namespace breadOS
                                     Console.WriteLine("INCORRECT USERNAME OR PASSWORD!");
                                 }
                                 break;
-                            case "user --change username[]":
+                            case "user --change username":
                                 Console.Write("Enter your username: ");
                                 string usernameChangeNameInput = Console.ReadLine();
                                 Console.WriteLine("Enter your password: ");
@@ -126,6 +130,35 @@ namespace breadOS
                                 Console.WriteLine("Goodbye...");
                                 user_Logged = false;
                                 break;
+                            case "sys --reboot":
+                                Console.WriteLine("Goodbye...");
+                                user_Logged = false;
+                                break;
+                            case "sys --reboot.wipe":
+                                Console.Write("Enter your username: ");
+                                string usernameSysWipe = Console.ReadLine();
+                                Console.WriteLine("Enter your password: ");
+                                string passwordSysWipe = Console.ReadLine();
+
+                                if (usernameSysWipe == username && passwordSysWipe == password)
+                                {
+                                    Console.Write("Are you sure you want to wipe the system? N/y: ");
+                                    string wipeConfirmation = Console.ReadLine();
+
+                                    if (wipeConfirmation == "y")
+                                    {
+                                        Console.WriteLine("Goodbye...");
+                                        user_Exist = false;
+                                        user_Logged = false;
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("Wipe cancled...");
+                                    }
+                                }
+                                break;
+
+
                         }
                     }
 
