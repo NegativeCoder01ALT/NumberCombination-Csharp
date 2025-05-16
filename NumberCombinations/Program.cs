@@ -18,7 +18,7 @@ while (true)
             {
                 FileName = "dotnet",
                 Arguments = "run",
-                WorkingDirectory = "/workspaces/MeIsNegative/Csharp/Computer/FakeSmallOS",
+                WorkingDirectory = "/workspaces/MeIsNegative/Csharp/Computer/FakeSmallOS", //change if needed
                 UseShellExecute = false,
                 RedirectStandardOutput = true,
                 RedirectStandardError = true,
